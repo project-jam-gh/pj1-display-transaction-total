@@ -11,9 +11,19 @@ within the terminal. We want to add a functionality where we can also display th
 
 ## Get Started
 
-// TODO: Add more clear instructions.
+To get started, first create a new repository in your account using this template.
 
-To get started, first fork this repository. After forking the repository, you would want to work within a separate branch.
+![](https://i.imgur.com/mO49do2.png)
+
+Then, create a new branch for your solution, you may call this anything, usually, we just call the branch: `solution`.
+
+![](https://i.imgur.com/fbMVtun.png)
+
+Push your solution to this branch, when you are ready, create a new pull request and add `project-jam-admin` as a reviewer.
+
+![](https://i.imgur.com/1xdAjFG.png)
+
+If you don't hear back within 24 hours, ping the admin on Discord channel. Once your PR is approved, your profile will have have this issue marked as fixed!
 
 ## Run the Project
 
